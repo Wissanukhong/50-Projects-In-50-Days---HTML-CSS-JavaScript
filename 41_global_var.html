@@ -30,9 +30,45 @@
     
     <header class="head color-rgb">
         <h1 class="head-text">Global Variable</h1>
-        <p class="head-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+        <p class="head-text">Global variable คือ ตัวแปรที่สามารถนำค่าไปใช้ได้ทั้งโปรแกรม</p>
     </header>
 
+   <blockquote style="font-size: 20px;">
+       <pre>
+            function Add () {
+                var A = 5;
+     
+                var B = 15;
+     
+                Total = A + B;
+     
+                return Total;
+            }
+            a = Add();
+     
+            document.write("The function Add = "+ a)
+
+       </pre>
+   </blockquote>
+
+
+
+   <script>
+       
+       function Add () {
+           var A = 5;
+
+           var B = 15;
+
+           Total = A + B;
+
+           return Total; //return คือการส่งค่าออกไปด้านนอก
+       }
+       a = Add();
+
+       document.write("The function Add = "+ a)
+   
+   </script>
 
 </body>
 </html>
