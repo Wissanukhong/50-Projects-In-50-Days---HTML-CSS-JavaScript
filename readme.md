@@ -16,3 +16,10 @@
 
 1. [Expanding card](https://github.com/Wissanukhong/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/master/01ExpandingCards)
 2. [Progress Steps](#)
+
+## Media query size
+
+- 0-480px for generally phone
+- 480-768px for Tablet and ipad
+- 769-1024px for generally notebook
+- 1025-1200px for generally desktop
