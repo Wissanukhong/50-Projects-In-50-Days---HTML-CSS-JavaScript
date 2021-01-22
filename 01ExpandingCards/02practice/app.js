@@ -1,3 +1,4 @@
+// querySelectorAll that it will return node list
 const pictures = document.querySelectorAll('.picture-container .picture');
 
 let i = 1;
