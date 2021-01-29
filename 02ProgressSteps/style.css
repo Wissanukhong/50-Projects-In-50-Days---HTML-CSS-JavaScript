@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* เป็นการกำหนดค่าสี เพื่อที่เราจะสามารถแก้ไขสีได้ทั้งโปรเจค */
 :root {
   --line-border-fill: #3498db;
   --line-border-emtry: #e0e0e0;
