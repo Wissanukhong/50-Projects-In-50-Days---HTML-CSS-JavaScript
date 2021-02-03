@@ -14,8 +14,8 @@
 
 ## Project name
 
-1. [Expanding card](https://github.com/Wissanukhong/50-Projects-In-50-Days-HTML-CSS-JavaScript/tree/master/01ExpandingCards)
-2. [Progress Steps](#)
+1. [Expanding card](https://github.com/Wissanukhong/50projects50days/tree/master/01ExpandingCards)
+2. [Progress Steps](https://github.com/Wissanukhong/50projects50days/tree/master/02ProgressSteps)
 
 ## Media query size
 
