@@ -17,6 +17,7 @@
 1. [Expanding card](https://github.com/Wissanukhong/50projects50days/tree/master/01ExpandingCards)
 2. [Progress Steps](https://github.com/Wissanukhong/50projects50days/tree/master/02ProgressSteps)
 3. [Rotating Navigation](https://github.com/Wissanukhong/50projects50days/tree/master/02ProgressSteps)
+4. [Hidden search widget](https://github.com/Wissanukhong/50projects50days/tree/master/04HiddenSearchWidget)
 
 ## Media query size
 
