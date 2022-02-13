@@ -16,3 +16,4 @@
 - 480-768px for Tablet and ipad
 - 769-1024px for generally notebook
 - 1025-1200px for generally desktop
+ 
