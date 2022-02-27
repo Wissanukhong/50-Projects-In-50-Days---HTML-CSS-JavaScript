@@ -1,14 +1,15 @@
-// https://github.com/Wissanukhong/50projects50days.git
 const panels = document.querySelectorAll('.panel');
 
+// Add active class
 panels.forEach((panel) => {
   panel.addEventListener('click', () => {
-    removeAcctiveClass();
+    removeClassActive();
     panel.classList.add('active');
   });
 });
 
-function removeAcctiveClass() {
+// Remove class active
+function removeClassActive() {
   panels.forEach((panel) => {
     panel.classList.remove('active');
   });
